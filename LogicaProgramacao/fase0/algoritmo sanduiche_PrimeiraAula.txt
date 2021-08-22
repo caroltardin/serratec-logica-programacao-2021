@@ -1,0 +1,30 @@
+Separar o material:
+	Pão de forma
+	Queijo prato
+	Presunto
+	manteiga
+	colher
+
+Montar o sanduíche:
+	uma fatia de pão de forma
+	uma fatia de queijo prato
+	uma fatia de presunto
+	passe a manteiga com o auxilio da colher
+	uma fatia de pão de forma
+
+Pegar o resultado da Montar o sanduíche, colocar no prato e comer. :D
+
+Se quiser, preparar achocolatado 
+	
+	Separar o material:
+		Achocolatado
+		leite	
+		copo
+		colher
+	
+	Montar o sanduíche:
+		um copo de leite	
+		2 colheres de achocolatado
+		Mexer a solução com a colher
+
+	Pegar o copo e degustar. 

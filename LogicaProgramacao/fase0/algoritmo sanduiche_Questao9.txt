@@ -1,0 +1,16 @@
+Abrir a geladeira 
+Pegar o queijo
+Colocar o queijo na mesa
+Pegar o presunto
+Colocar o queijo na presunto
+Fechar a geladeira
+Pegar a sacola de pão no armario
+Colocar a sacola de pão na mesa
+Pegar um prato no armario
+colocar sacola na mesa
+Abrir a sacola de pao que esta na mesa, pegar duas fatias e colocar no prato
+Pegar uma fatia do queijo que está mesa e colocar sobre o pão
+Pegar uma fatia do presentu que está mesa e colocar sobre o queijo 
+Pegar o pão que não tem queijo diretamente sobre ele 
+Colocar o pao da linha acima em cima do presentu
+Saborear 

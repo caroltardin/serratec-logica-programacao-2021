@@ -1,0 +1,3 @@
+carta = "Olá, Carolina! Que bom que você chegou até o fim, está feliz, né? Foi puxado, mas sabíamos que iríamos consegui. Próximo passo é python? Ou gostou tanto de programar que vai trocar de ciência de dados para backend? Acho difícil... O que espero mais especificamente é que você crie o hábito de pensar logicamente para resolver os problemas, aprender a ser amiga da documentação e ter um grupo de apoio igual você já está tendo nesse período. Apesar de trabalharmos com máquina o fim de tudo é para um humano. Além disso, espero que domine o html para e seja capaz de criar tela de autenticação simples para exibir, por exemplo, painel criados no powerBI"
+
+console.log(carta)
