@@ -6,7 +6,9 @@ const prompt = require("prompt-sync")();
 console.log("== Eleições 2020 ==")
 var idade = prompt("Digite sua idade: ")
 
-if (idade25 >= 16)
-    console.log("Você já pode votar? True" )
+var avaliacao = idade >= 16
+
+if (avaliacao)
+    console.log("Você já pode votar? " + avaliacao)
 else
-console.log("Você já pode votar? False")
+console.log("Você já pode votar?" + avaliacao)
