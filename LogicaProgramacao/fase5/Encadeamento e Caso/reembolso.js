@@ -3,11 +3,12 @@
 const prompt = require("prompt-sync")();
 
 var reembolso = prompt("Qual o valor do reembolso?")
-reembolso = parseInt(reembolso)
+reembolso = parseFloat(reembolso)
+reembolso = reembolso.toFixed(2)
 
   if(reembolso >= 20 && reembolso <=100){
     console.log(":: Restaurante Braya ::")
-    console.log("Cupom desconto para sua próxima visita: " + reembolso)
+    console.log("Cupom desconto para sua próxima visita: R$ " + reembolso)
   }else{
-    console.log("Para esse tipo de reembolso fazer seguir outro procedimento.")
+    console.log("Tipo de reembolso não aplicável para esse valor.")
   }
