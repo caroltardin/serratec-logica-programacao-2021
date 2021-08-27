@@ -9,8 +9,8 @@ e.	Imprimir na tela o contracheque do funcionário.
 const prompt = require("prompt-sync")();
 
 var salarioBase = prompt("Qual o salário base? ")
-salarioBase = Number()
-var hrExtra= prompt("Quantas horas extras foram feitas? ")
+salarioBase = Number(salarioBase)
+var hrExtra = prompt("Quantas horas extras foram feitas? ")
 var inssSalario = salarioBase * 0.05 //considerando o valor ficticio de 5% sobre o valor da hora
 var horaBase = salarioBase/160
 
